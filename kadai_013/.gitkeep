@@ -1,0 +1,11 @@
+＜ディレクトリ構成＞
+html-css-kadai_013
+├── index.html
+└── style.css
+└── images
+      └── arrow.png
+      └── button-close.png
+      └── button-menu.png
+      └── logo-sp.png
+      └── logo.png
+      └── main-image.png
